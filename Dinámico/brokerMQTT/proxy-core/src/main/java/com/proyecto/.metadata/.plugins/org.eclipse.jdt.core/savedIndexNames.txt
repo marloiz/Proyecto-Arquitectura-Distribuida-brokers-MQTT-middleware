@@ -1,0 +1,18 @@
+INDEX VERSION 1.126+/home/asier/Desktop/brokerMQTT/proxy-core/src/main/java/com/proyecto/.metadata/.plugins/org.eclipse.jdt.core
+1694563588.index
+3354070319.index
+351583724.index
+29327282.index
+78178988.index
+242179703.index
+3689979690.index
+1406645213.index
+3091246090.index
+3095481700.index
+3598513422.index
+1509770507.index
+1689082527.index
+1162015955.index
+3689772550.index
+632628527.index
+2153670030.index
